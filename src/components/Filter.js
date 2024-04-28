@@ -10,3 +10,4 @@ function Filter({onCategoryChange}){
     </select>
   </div>
 }
+export default Filter
